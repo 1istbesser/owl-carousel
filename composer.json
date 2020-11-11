@@ -1,0 +1,16 @@
+{
+    "name": "oneistbesser/owl-carousel",
+    "type": "library",
+    "description": "Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.",
+    "keywords": ["carousel","jquery"],
+    "homepage": "https://owlcarousel2.github.io/OwlCarousel2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Deutsch",
+            "email": "deutsch@medienpark.net",
+            "homepage": "https://owlcarousel2.github.io/OwlCarousel2",
+            "role": "Creator"
+        }
+    ],
+}
